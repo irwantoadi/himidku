@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">HIMID-KU</string>
+    <string name="mulai_chat">Mulai Chat</string>
+    <string name="beranda">Beranda</string>
+    <string name="tentang_kami">Tentang Kami</string>
+    <string name="apa_itu_himid_ku">Apa itu HIMID-KU</string>
+    <string name="ketentuan_pengguna">Ketentuan Pengguna</string>
+    <string name="kebijakan_privasi">Kebijakan Privasi</string>
+    <string name="_021_678_333">021 678 333</string>
+    <string name="_081278370233">081278370233</string>
+    <string name="todo">TODO</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="akun_saya">Akun Saya</string>
+    <string name="p">-</string>
+    <string name="masuk_daftar">Masuk / Daftar</string>
+    <string name="pesanan_saya">Pesanan Saya</string>
+    <string name="favorit_kos_saya">Favorit Kos Saya</string>
+    <string name="penilaian_kos_saya">Penilaian Kos Saya</string>
+    <string name="pengaturan_akun">Pengaturan Akun</string>
+    <string name="chat_dengan_himid_ku">Chat dengan HIMID-KU</string>
+    <string name="himidku_gmail_com">himidku@gmail.com</string>
+</resources>
